@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.pkl
+hybrid_dataset.csv
+hybrid_features.pkl
+phishing.pkl
+hybrid_model.pkl
+.env
+venv/
+env/
+.idea/
+.vscode/
+.DS_Store
